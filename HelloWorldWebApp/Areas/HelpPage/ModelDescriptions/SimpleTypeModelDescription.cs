@@ -1,0 +1,6 @@
+namespace HelloWorldWebApp.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
